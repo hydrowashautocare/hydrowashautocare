@@ -12,7 +12,7 @@ collections:
     title: Uploads
     output: true
 remote_theme: raviriley/agency-jekyll-theme
-url: https://www.hydrowashautocare.com
+url: https://hydrowashautocare.com
 baseurl: "/hydrowashautocare"
 email: your-email@example.com
 description: Welcome to a new era of car detailing services
